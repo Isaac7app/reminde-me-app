@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+Mock up database, serve on (http://localhost:5000), you have to run:
+
+### `npm run server`
+
 In the project directory, you can run:
 
 ### `npm start`
